@@ -1,7 +1,0 @@
-1. The Event Loop
-2. The old way: Asynchronous JS with Callback
-3. Promises
-4. Async/Await
-5. AJAX and APIs
-6. Making AJAX calls with Fetch and Promises
-7. Making AJAX calls with Fetch and Async/Await. 
